@@ -1,5 +1,7 @@
 # kali-rolling-docker-install-guide
-Install Kali Linux ( Docker Build )
+<b style='color:darkblue'>Install Kali Linux ( Docker Build )</b>
+
+sudo docker network create pentest
 
 sudo docker pull kalilinux/kali-rolling
 
